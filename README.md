@@ -1,4 +1,3 @@
-# My portfolio
-index.html
+# index.html
 
         
